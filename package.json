@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "git-filter-repo": "^0.0.30",
+    "sass": "^1.80.6",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "util": "^0.12.5",
+    "webpack": "^5.95.0"
+  },
+  "devDependencies": {
+    "browserify-zlib": "^0.2.0",
+    "crypto-browserify": "^3.12.0",
+    "path-browserify": "^1.0.1",
+    "querystring-es3": "^0.2.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
